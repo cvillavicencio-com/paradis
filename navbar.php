@@ -14,7 +14,7 @@
                 <a href="#service" class="nav-item nav-link">Servicios</a>
 
             </div>
-            <a href="index.html" class="navbar-brand bg-primary px-4 mx-3 d-none d-lg-block bg-white  ">
+            <a href="#" class="navbar-brand bg-primary px-4 mx-3 d-none d-lg-block bg-white  ">
                 <h1 class="display-4 text-white text-uppercase m-0">
          <img src="logo.png"></h1>
             </a>
