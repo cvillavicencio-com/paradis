@@ -2,8 +2,8 @@
     <meta charset="utf-8">
     <title>Nissan Paradis Service</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="mecanico,taller,santiago,chile,maipu,repuestos,repuestos originales,nissan,reparación,mantención" name="keywords">
+    <meta content="Taller mecánico" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
