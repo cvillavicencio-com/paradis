@@ -10,7 +10,7 @@
                     <div class="product-item mb-2">
                         <div class="product-img">
                             <img class="img-fluid" src="img/product-1.jpg" alt="">
-                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#mantencion">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>
                         </div>
@@ -23,7 +23,7 @@
                     <div class="product-item mb-2">
                         <div class="product-img">
                             <img class="img-fluid" src="img/product-2.jpg" alt="">
-                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#reparacion">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>
                         </div>
@@ -36,7 +36,7 @@
                     <div class="product-item mb-2">
                         <div class="product-img">
                             <img class="img-fluid" src="img/product-3.jpg" alt="">
-                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+                            <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#repuestos">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>
                         </div>
