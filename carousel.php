@@ -7,7 +7,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Paradis Service</h4>
-                            <h3 class="display-2 font-secondary text-white mb-4">Mantención de vehículos</h3>
+                            <h3 class="display-2 font-secondary text-white mb-4">Mantención de<br>vehículos</h3>
                         </div>
                     </div>
                 </div>
@@ -16,7 +16,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Paradis Service</h4>
-                            <h3 class="display-2 font-secondary text-white mb-4">Reparación de vehículos</h3>
+                            <h3 class="display-2 font-secondary text-white mb-4">Reparación de<br>vehículos</h3>
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Paradis Service</h4>
-                            <h3 class="display-2 font-secondary text-white mb-4">Venta de repuestos</h3>
+                            <h3 class="display-2 font-secondary text-white mb-4">Venta de<br>repuestos</h3>
 
                         </div>
                     </div>
