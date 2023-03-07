@@ -1,6 +1,55 @@
-mantención, reparación de vehículos, venta de repuestos
+servicios: mantención, reparación de vehículos, venta de repuestos
 
-experiencia de mecánicos
-todos técnicos titulados
-curso nissan fábrica
-competición nissan 13 años
+
+** información necesaria
+
+- [X] información de contacto (telefono, mail, dirección, formulario de contacto)
+- [ ] servicios
+	- [ ] mantencion
+	- [ ] reparaciones
+	- [ ] repuestos
+- [ ] horario (días/horas)
+- [ ] testimonios
+- [ ] sobre el taller
+	- [ ] cuantos maestros son
+	- [ ] experiencia de maestros
+- [ ] concesiones y certificaciones
+
+
+** preguntas
++ sobre los servicios, cuales son las mantenciones más comunes, cuales otras ofrecen y no son tan comunes.
++ reparaciones, más comunes, otras que no sean comunes
++ repuestos, marcas, calidades, etc
++ horario de funcionamiento
++ hay opiniones de clientes? podrian haber?
++ sobre el taller, cuantas personas trabajan, calificaciones técnicas. Pueden ir en la página, ponerlos?
++ concesiones o certificaciones del taller
+
+** recomendacion gpt3
+Un sitio web para taller mecánico de autos debería tener la siguiente información:
+
+1. Información de contacto: debe haber información de contacto clara y fácilmente accesible, como el número de teléfono, la dirección de correo electrónico, la dirección física y un formulario de contacto.
+
+2. Servicios ofrecidos: deberían describir de manera clara y detallada los distintos servicios que ofrece el taller, como reparaciones de motor, mantenimiento y reparación de frenos, aire acondicionado, cambio de aceite, reparación de transmisiones, etc.
+
+3. Precios: el taller debe proporcionar información sobre precios de sus servicios, ya sea en la página de servicios o en un presupuesto personalizado.
+
+4. Horario: el horario de trabajo del taller, días de la semana y horas de trabajo. 
+
+5. Testimonios y revisiones: se pueden agregar críticas de clientes anteriores en el sitio web para ayudar a los clientes potenciales a tomar decisiones informadas.
+
+6. Sobre nosotros: una página que destaca la experiencia y los conocimientos del personal técnico del taller.
+
+7. Promociones o cupones: es posible que el taller tenga ofertas o cupones especiales en periodos determinados.
+
+8. Concesiones y certificaciones: En el sitio web, sería bueno destacar cualquier concesión o certificación obtenida de la industria automotriz, mostrando así la profesionalidad y conocimientos del taller.
+
+Tener toda esta información en el sitio web de un taller mecánico de automóviles, proporcionará una buena primera imp
+
+
+** datos proporcionados
+
+- experiencia de mecánicos
+- todos técnicos titulados
+- curso nissan fábrica
+- competición nissan 13 años
