@@ -9,7 +9,7 @@
                 <div class="col-lg-4 mb-3">
                     <div class="product-item mb-2">
                         <div class="product-img">
-                            <img class="img-fluid" src="img/product-1.jpg" alt="">
+                            <img class="img-fluid" src="img/product-mantencion.jpg" alt="">
                             <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#mantencion">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>
@@ -22,7 +22,7 @@
                 <div class="col-lg-4 mb-3">
                     <div class="product-item mb-2">
                         <div class="product-img">
-                            <img class="img-fluid" src="img/product-2.jpg" alt="">
+                            <img class="img-fluid" src="img/product-reparaciones.jpg" alt="">
                             <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#reparacion">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>
@@ -35,7 +35,7 @@
                 <div class="col-lg-4 mb-3">
                     <div class="product-item mb-2">
                         <div class="product-img">
-                            <img class="img-fluid" src="img/product-3.jpg" alt="">
+                            <img class="img-fluid" src="img/product-repuestos.jpg" alt="">
                             <a type="button" class="btn btn-primary" data-toggle="modal" data-target="#repuestos">
                                 <i class="fa fa-2x fa-plus text-white"></i>
                             </a>

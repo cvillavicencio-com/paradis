@@ -4,13 +4,13 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Solar Energy System</h5>
+        <h5 class="modal-title" id="exampleModalLongTitle">Mantención de vehículos</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <img class="img-fluid mb-4" src="img/carousel-1.jpg" alt="">
+        <img class="img-fluid mb-4" src="img/modal-mantencion.jpg" alt="">
         <p>Sit neeeeeeeee lor ea dolores ut nonumy, sea est rebum dolore dolor. Lorem tempor tempor gubergren dolor dolor dolor. Kasd amet labore voluptua justo diam, dolore accusam duo est stet nonumy tempor dolores sadipscing duo. Stet at et nonumy erat et sed.</p>
       </div>
     </div>
@@ -25,13 +25,13 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Solar Energy System</h5>
+        <h5 class="modal-title" id="exampleModalLongTitle">Reparación de vehículos</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <img class="img-fluid mb-4" src="img/carousel-1.jpg" alt="">
+        <img class="img-fluid mb-4" src="img/modal-reparaciones.jpg" alt="">
         <p>Vivamus id enim. Phasellus at dui in ligula mollis ultricies. Nam euismod tellus id erat. Vivamus id enim. Phasellus at dui in ligula mollis ultricies.  Nam euismod tellus id erat. </p>
       </div>
     </div>
@@ -45,13 +45,13 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Solar Energy System</h5>
+        <h5 class="modal-title" id="exampleModalLongTitle">Mantención de vehículos</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <img class="img-fluid mb-4" src="img/carousel-1.jpg" alt="">
+        <img class="img-fluid mb-4" src="img/modal-repuestos.jpg" alt="">
         <p>Vivamus id enim. Phasellus at dui in ligula mollis ultricies. Nam euismod tellus id erat. Vivamus id enim. Phasellus at dui in ligula mollis ultricies.  Nam euismod tellus id erat. </p>
       </div>
     </div>
